@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="app_icon" width="360" height="360" data-name="app icon" viewBox="0 0 360 360">
+    <defs>
+        <style>
+            .cls-1{fill:#fff}.cls-2{fill:url(#linear-gradient)}
+        </style>
+        <linearGradient id="linear-gradient" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#ff6f61" stop-opacity=".502"/>
+            <stop offset="1" stop-color="#ff6f61"/>
+        </linearGradient>
+    </defs>
+    <rect id="사각형_12" width="360" height="360" data-name="사각형 12" rx="80"/>
+    <circle id="타원_4" cx="75.048" cy="75.048" r="75.048" class="cls-1" data-name="타원 4" transform="translate(104.952 104.952)"/>
+    <path id="패스_26" d="M176.437.342v176.1H.342z" class="cls-2" data-name="패스 26" transform="translate(91.61 91.61)"/>
+</svg>
